@@ -1,0 +1,16 @@
+{
+  "name": "apiRestifyExample",
+  "version": "0.0.1",
+  "description": "Simple Example with Restify and Mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Ramos",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "mysql": "~2.0.0-alpha9",
+    "restify": "~2.6.1"
+  }
+}
